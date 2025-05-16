@@ -29,7 +29,6 @@
 - Использование React Context API для управления глобальным состоянием
 - Рефакторинг кода с использованием контекста вместо проброса пропсов
 - Работа с датами в JavaScript
-- Создание адаптивного и интерактивного пользовательского интерфейса
 - Организация компонентов React для лучшей поддерживаемости кода
 
 <details>
@@ -66,7 +65,6 @@ A task management application with the ability to set priorities, deadlines, and
 - Using React Context API for global state management
 - Refactoring code using context instead of prop drilling
 - Working with dates in JavaScript
-- Creating responsive and interactive user interfaces
 - Organizing React components for better code maintainability
 
 </details>
